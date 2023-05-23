@@ -1,0 +1,16 @@
+          HTML
+
+* Row items insede can make as <table> element , picture place in all 3 rovs of table!
+
+*
+
+
+
+
+
+
+          CSS
+
+*
+
+*
